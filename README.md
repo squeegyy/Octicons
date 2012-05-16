@@ -1,5 +1,5 @@
 
-![Octicons](/yuanyan/Octicons/raw/master/docs/assets/octicons.jpg)
+![Octicons](/yuanyan/Octicons/raw/master/docs/assets/octicons.png)
 
 ## Octicons
 
